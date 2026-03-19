@@ -23,7 +23,7 @@ Hoy curso también la **Licenciatura en Sistemas** en la UNLa y sigo construyend
 **Lenguajes**
 
 ![Python](https://img.shields.io/badge/Python-131b39?style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL_Server-131b39?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-131b39?style=for-the-badge)
 
 **Análisis y Visualización**
 
