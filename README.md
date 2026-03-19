@@ -18,7 +18,7 @@ Hoy curso también la **Licenciatura en Sistemas** en la UNLa y sigo construyend
 
 <p align="center">━━━━━━━━ ♡ ♥ ♡ ━━━━━━━━</p>
 
-## 🛠️ Stack
+## 🛠️ Skills
 
 **Lenguajes**
 
